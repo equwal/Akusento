@@ -12,7 +12,7 @@ For more information on pitch accent theory, check out [these resources](https:/
 
 ## Usage Guide
 
-clone the repo *with recursive on*!
+Clone the repo with submodules.
 
 ```
 git clone --recurse-submodules https://github.com/tunamayo04/Akusento

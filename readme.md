@@ -10,6 +10,8 @@ For more information on pitch accent theory, check out [these resources](https:/
 
 ## Getting Started
 
+Note that while we already have certain standards in place, nothing is set in stone. If you have an issue with the way code is structured; with any libraries we are using; with any processes involved with contributing,  _please_  bring it up. I welcome all feedback so we can make contributing to this project as pain-free as possible.
+
 ## Usage Guide
 
 Clone the repo with submodules.
@@ -31,9 +33,6 @@ pin it in the extension menu and click it to turn it on
 
 <img width="847" height="554" alt="Image" src="https://github.com/user-attachments/assets/f65cd661-db46-42a7-91d8-b6182066dba7" />
 
-I like this one better than the Migaku one, it is way less cluttered because it doesn't try too hard.
-
-出来るぜ！
 ## Licence
 
 Dash is licensed under the [GNU licence](https://opensource.org/licenses/GNU). Please see [the licence file](https://github.com/zerox029/Akusento/blob/master/LICENSE) for more information. [tl;dr](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)) you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source.

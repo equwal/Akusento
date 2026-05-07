@@ -10,7 +10,7 @@ For more information on pitch accent theory, check out [these resources](https:/
 
 ## Getting Started
 
-GUIDE:
+## Usage Guide
 
 clone the repo *with recursive on*!
 

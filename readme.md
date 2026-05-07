@@ -10,8 +10,6 @@ For more information on pitch accent theory, check out [these resources](https:/
 
 ## Getting Started
 
-This addon is highly underrated. Plus, it's simple. It's crazy that the only other option is the proprietary Migaku extension.
-
 GUIDE:
 
 clone the repo *with recursive on*!
